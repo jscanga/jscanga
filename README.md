@@ -156,12 +156,6 @@ An Overcooked-inspired restaurant sim built entirely inside Minecraft, custom co
 <img src="https://raw.githubusercontent.com/jscanga/jscanga/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
 
-<sup align="center">
-
-*(this animates your real contribution graph, see setup note below)*
-
-</sup>
-
 <br/>
 
 ---
