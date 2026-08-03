@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://jscanga.com"><img src="https://img.shields.io/badge/portfolio-jscanga.dev-c9b8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d10" /></a>
+<a href="https://jscanga.com"><img src="https://img.shields.io/badge/portfolio-jscanga.com-c9b8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d10" /></a>
 <a href="mailto:jas1337@pitt.edu"><img src="https://img.shields.io/badge/email-jas1337%40pitt.edu-ffb8d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d10" /></a>
 <a href="https://linkedin.com/in/james-scanga-05a707381"><img src="https://img.shields.io/badge/linkedin-connect-a8d8ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d10" /></a>
 
@@ -37,13 +37,17 @@ const james = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧷 [Paperclip](https://github.com/jscanga) — 🏆 Hackathon Winner
+<img src="https://raw.githubusercontent.com/jscanga/jscanga/main/assets/paperclip.png" width="100%" />
+
+### 🧷 [Paperclip](https://jscanga.com) — 🏆 Hackathon Winner
 Role-scoped document search that slices SharePoint docs into chunks and retrieves only the relevant passages, cutting AI token cost **80%+ on average**. Won 1st of 8 teams (64 interns) at Federated Hermes' internal hackathon.
 
 `Next.js` `TypeScript` `Claude API` `Vercel`
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/jscanga/jscanga/main/assets/keygrad.png" width="100%" />
 
 ### 🎓 [Keygrad](https://www.keygrad.com)
 Maps 43,000+ verified course equivalencies across 1,800+ colleges into 14 Pennsylvania universities. Live SaaS product, 1,200+ organic users, semantic-similarity matching via the Claude API.
@@ -55,6 +59,8 @@ Maps 43,000+ verified course equivalencies across 1,800+ colleges into 14 Pennsy
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/jscanga/jscanga/main/assets/chess-analyzer.png" width="100%" />
+
 ### ♟️ Chess Blind Spots Analyzer
 Scores every move of your Lichess/Chess.com history by engine centipawn loss. Position-and-depth-keyed cache makes repeat analysis **130x faster** (99.9% cache hit rate). Found my own biggest leak: endgame play, not openings.
 
@@ -62,6 +68,8 @@ Scores every move of your Lichess/Chess.com history by engine centipawn loss. Po
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/jscanga/jscanga/main/assets/arbitrage-finder.png" width="100%" />
 
 ### 📈 [Sports Arbitrage Finder](https://sports-arbitrage-finder.vercel.app/dashboard)
 Real-time odds aggregator across bookmakers that flags guaranteed-profit arbitrage spreads, plus a bet-sizing calculator. Ran live 7 days straight, 250+ opportunities logged.
@@ -73,6 +81,8 @@ Real-time odds aggregator across bookmakers that flags guaranteed-profit arbitra
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/jscanga/jscanga/main/assets/bwbridge.png" width="100%" />
+
 ### 🛏️ bwbridge — Autonomous BedWars Agent
 Client-side Fabric mod that plays Minecraft BedWars' resource loop end to end, no human input. Orchestrator phase machine, hybrid walk/bridge pathfinding with oscillation-proof cooldown logic, bridge reuse across trips.
 
@@ -80,6 +90,8 @@ Client-side Fabric mod that plays Minecraft BedWars' resource loop end to end, n
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/jscanga/jscanga/main/assets/restaurant-sim.png" width="100%" />
 
 ### 🍳 Minecraft Restaurant Simulator
 An Overcooked-inspired restaurant sim built entirely inside Minecraft, custom cooking mechanics, interactive appliances, AI-driven customers. Every model and texture built from scratch in Blockbench.
@@ -91,7 +103,7 @@ An Overcooked-inspired restaurant sim built entirely inside Minecraft, custom co
 </table>
 
 <div align="right">
-<a href="https://jscanga.dev">→ see all projects on my portfolio</a>
+<a href="https://jscanga.com">→ see all projects on my portfolio</a>
 </div>
 
 <br/>
@@ -155,5 +167,5 @@ An Overcooked-inspired restaurant sim built entirely inside Minecraft, custom co
 ---
 
 <div align="center">
-<sub>Bench 255/315 · Chess peak 1,389/1,800 · Bedwars 611/1,000 stars · full stat sheet on <a href="https://jscanga.dev">jscanga.dev</a></sub>
+<sub>Bench 255/315 · Chess peak 1,389/1,800 · Bedwars 611/1,000 stars · full stat sheet on <a href="https://jscanga.com">jscanga.com</a></sub>
 </div>
