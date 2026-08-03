@@ -14,9 +14,9 @@
 
 ## About
 
-I'm a Computer Science + Data Science double major at the University of Pittsburgh, completing both degrees in three years. I'm a Software Engineering Intern at **Federated Hermes**, and I co-founded **Keygrad**, a live SaaS platform with 1,200+ organic users.
+I'm a Computer Science + Data Science double major at the University of Pittsburgh, completing both degrees in three years. I'm a Software Engineering Intern at **Federated Hermes**.
 
-Most of what I build sits at the intersection of **financial software, automation, and AI**, tuning production queries, shipping retrieval-augmented tools, or finding real edges in messy data. Outside of that: chess, lifting, competitive Minecraft, and an unreasonable amount of side projects.
+I've been writing software since middle school, mostly modding games I liked, and creating some of my own. These days it's mostly financial tools and automation, now increasingly with AI wired in. Currently in the middle of the Leetcode grind :)
 
 ```txt
 const james = {
