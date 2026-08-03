@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://jscanga.dev"><img src="https://img.shields.io/badge/portfolio-jscanga.dev-c9b8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d10" /></a>
+<a href="https://jscanga.com"><img src="https://img.shields.io/badge/portfolio-jscanga.dev-c9b8ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d10" /></a>
 <a href="mailto:jas1337@pitt.edu"><img src="https://img.shields.io/badge/email-jas1337%40pitt.edu-ffb8d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d10" /></a>
 <a href="https://linkedin.com/in/james-scanga-05a707381"><img src="https://img.shields.io/badge/linkedin-connect-a8d8ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d10" /></a>
 
